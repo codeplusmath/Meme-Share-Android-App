@@ -25,8 +25,6 @@ Use this link to [download](https://github.com/codeplusmath/Meme-Share-Android-A
 
 ## Preview
 
-![](https://github.com/codeplusmath/Meme-Share-Android-App/blob/master/Tests/TestMeme1.PNG) 
-![](https://github.com/codeplusmath/Meme-Share-Android-App/blob/master/Tests/TestShareButton.PNG)
-![](https://github.com/codeplusmath/Meme-Share-Android-App/blob/master/Tests/TestAppIcon.PNG)
+![](https://github.com/codeplusmath/Meme-Share-Android-App/blob/master/Tests/TestMeme1.PNG) ![](https://github.com/codeplusmath/Meme-Share-Android-App/blob/master/Tests/TestShareButton.PNG) ![](https://github.com/codeplusmath/Meme-Share-Android-App/blob/master/Tests/TestAppIcon.PNG)
 
-Thank you
+Thank you.
